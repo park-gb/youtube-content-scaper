@@ -22,7 +22,7 @@ $ pipenv install
 - pipenv 사용법 관련 [문서](https://heytech.tistory.com/320)
 
 #### 방법 2. pip 활용
-```python
+```
 $ pip install bs4==0.0.1
 $ pip install selenium==4.1.2
 $ pip install webdriver-manager==3.5.3
