@@ -8,7 +8,7 @@
 - 유튜브 내 검색 결과의 콘텐츠 정보 Scrap
 - 수집 데이터 종류
   - 콘텐츠 제목
-  - 콘텐츨 링크
+  - 콘텐츠 링크
 - 수집한 데이터는 데이터프레임 형태로 포맷팅(`data/content_total.csv`)
 <img width="733" alt="df" src="https://user-images.githubusercontent.com/80144296/157045209-3e990144-5df5-4ded-9827-d7072b67eed4.png">
 
