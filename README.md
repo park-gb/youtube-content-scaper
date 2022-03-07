@@ -23,11 +23,11 @@ $ pipenv install
 
 #### 방법 2. pip 활용
 ```python
-$ pip install bs4
-$ pip install selenium
-$ pip install webdriver-manager
-$ pip install pandas
-$ pip install numpy
+$ pip install bs4==0.0.1
+$ pip install selenium==4.1.2
+$ pip install webdriver-manager==3.5.3
+$ pip install pandas==1.4.1
+$ pip install numpy==1.22.2
 ```
 #### 패키지 정보
 ```
