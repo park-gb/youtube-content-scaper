@@ -13,7 +13,7 @@
 <img width="733" alt="df" src="https://user-images.githubusercontent.com/80144296/157045209-3e990144-5df5-4ded-9827-d7072b67eed4.png">
 
 ## 2. 실행방법 
-### (2) 패키지 설치
+### (1) 패키지 설치
 #### 방법 1. pipenv 활용(권장)
 - Pipfile 내 모든 패키지 자동 설치
 ```python
@@ -29,7 +29,7 @@ $ pip install webdriver-manager
 $ pip install pandas
 $ pip install numpy
 ```
-#### 사용한 패키지 및 버전 정보
+#### 패키지 정보
 ```
 bs4==0.0.1
 selenium==4.1.2
@@ -37,6 +37,9 @@ webdriver-manager==3.5.3
 pandas==1.4.1
 numpy==1.22.2
 ```
+
+### (2) 검색 키워드 설정
+- 유튜브에서 검색할 키워드를 ```SEARCH_KEYWORD``` 변수 내 문자열로 입력
 
 ## 3. 전체 파일구조
 ``` bash
@@ -52,7 +55,7 @@ numpy==1.22.2
 ```
 
 ## 4. 실행 결과
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80144296/157046107-73fd3e1d-23d0-4450-85a7-16ee5265940d.gif)
 
 ## 참고문헌
 - 개인 블로그(Tistory): https://heytech.tistory.com
