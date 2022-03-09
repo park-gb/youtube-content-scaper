@@ -58,7 +58,7 @@ numpy==1.22.2
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80144296/157046107-73fd3e1d-23d0-4450-85a7-16ee5265940d.gif)
 
 ## 참고문헌
-- 개인 블로그(Tistory): https://heytech.tistory.com
+- 개인 블로그(Tistory): https://heytech.tistory.com/325
 - Gitgub: https://github.com/park-gb/youtube-content-scaper
 
 ## 📝 License
