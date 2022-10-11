@@ -5,9 +5,8 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ## Update Log
-Last Updated @2022-10-11
-(1) 콘텐츠 조회수 및 업로드일 추출 추가
-- 정상동작 확인
+### (1) 2022-10-11
+- 콘텐츠 조회수 및 업로드일 추출 추가
 
 ## 1. 주요 기능
 - 유튜브 내 검색 결과의 콘텐츠 정보 Scrap
